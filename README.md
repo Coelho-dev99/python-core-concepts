@@ -22,15 +22,6 @@ Resolução de Problemas
 ## 🎯 Objetivo da Fase
 Consolidar os fundamentos da programação e desenvolver a capacidade de solucionar problemas utilizando Python.
 
-## 📈 Próximos Passos
-Após concluir esta fase, o foco será:
-
-Projetos intermediários
-Estruturas de dados mais avançadas
-Manipulação de arquivos
-Pequenos sistemas em terminal
-Preparação para APIs, Bots e Desenvolvimento Web
-
 ## 👨‍💻 Autor
 Marcio Eduardo Nunes Coelho
 
