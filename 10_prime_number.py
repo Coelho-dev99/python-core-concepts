@@ -1,3 +1,9 @@
+"""
+Detector de números primos.
+
+Verifica se o número informado é primo (Se o mesmo divisível por 1 e por ele mesmo)
+"""
+
 def primo (n1):
 
     for divisor in range (2, n1):
