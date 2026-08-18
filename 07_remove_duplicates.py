@@ -1,3 +1,9 @@
+"""
+Removedor de duplicados
+
+Remove elementos duplicados de um lista, mantendo apenas um número de cada.
+"""
+
 lista = []
 
 while True:
