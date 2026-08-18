@@ -1,3 +1,9 @@
+"""
+Contador de vogais
+
+Conta o número de vogais em um string fornecida pelo usuário.
+"""
+
 frase = input("Digite uma frase: ")
 
 vogais = "aeiouAEIOU"
