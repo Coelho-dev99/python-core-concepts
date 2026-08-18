@@ -1,3 +1,9 @@
+"""
+Localizar o númeor maior
+
+Encontra e exibe o maior valor em um lista de números.
+"""
+
 lista =[]
 
 while True:
