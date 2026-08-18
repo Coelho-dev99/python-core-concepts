@@ -178,7 +178,7 @@ This project is open source and available under the MIT License.
 
 Feel free to reach out or follow my journey:
 - 🔗 **LinkedIn:** linkedin.com/in/marcioernc  
-- 📧 **Email:** marcio@example.com
+- 📧 **Email:** ec_marcio@msn.com
 - 💻 **GitHub:** github.com/Coelho-dev99
 
 ---
